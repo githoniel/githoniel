@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwuofficial&count_private=true&theme=algolia" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=githoniel&count_private=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githoniel&layout=compact&theme=algolia" />
 </div>
